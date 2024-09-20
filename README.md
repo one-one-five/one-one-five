@@ -73,8 +73,8 @@
 
 ### 📈 Статистика GitHub:
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![График активности](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=one-one-five&show_icons=true&theme=dark)
+![График активности](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=one-one-five&theme=github_dark)
 
 ---
 
