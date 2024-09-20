@@ -35,13 +35,13 @@
 ### 📂 Мое портфолио:
 
 - **Тестовая документация**:
-  - [Тест-кейсы]()
-  - [Чек-листы]()
-  - [Тест-планы]()
-  - [Баг-репорты]()
+  - [Тест-кейсы](https://github.com/one-one-five/test_case)
+  - [Чек-листы](https://github.com/one-one-five/check-list)
+  - [Тест-планы](https://github.com/one-one-five/test-plan)
+  - [Баг-репорты](https://github.com/one-one-five/bug-report)
 
 - **API тестирование**:
-  - [Коллекции в Postman]()
+  - [Коллекции в Postman](https://github.com/one-one-five/postman_collection)
 
 ---
 
